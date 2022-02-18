@@ -30,6 +30,6 @@ public class VerifyEbayCameraTotalByCategory extends Base {
 		Assert.assertEquals(result, 46);
 
 		
-	}
+	}//main
 
-}
+}//class
